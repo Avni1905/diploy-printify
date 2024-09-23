@@ -1,24 +1,24 @@
-import customproducts from '../assets/customproducts.png';
-import sellproducts from '../assets/sellproducts.png';
-import fulfillment from '../assets/fullfillment.png';
+import higherprofits from '../assets/higher-profits.svg';
+import robustscaling from '../assets/robust-scaling.svg';
+import bestselection from '../assets/best-selection.svg';
 import { motion } from 'framer-motion';
 
 const PictureCard = () => {
   const features = [
     {
-      image: customproducts,
+      image: higherprofits,
       title: "CREATE",
       subtitle: "custom products",
       description: "Easily add your designs to a wide range of products using our free tools"
     },
     {
-      image: sellproducts,
+      image: robustscaling,
       title: "SELL",
       subtitle: "on your terms",
       description: "You choose the products, sale price, and where to sell"
     },
     {
-      image: fulfillment,
+      image: bestselection,
       title: "WE HANDLE",
       subtitle: "fulfillment",
       description: "Once an order is placed, we automatically handle all the printing and delivery logistics"

@@ -30,7 +30,7 @@ export const testimonialsData = [
     {
         id: 5,
         name: `Phoebe`,
-        img: `hsrc/assets/joey.png`,
+        img: `hsrc/assets/phoebe.png`,
         review: `Effortless setup and great results. The features are exactly what I needed!`,
         delay: 1.1,
     },
