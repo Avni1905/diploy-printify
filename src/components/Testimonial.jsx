@@ -1,6 +1,5 @@
 import { testimonialsData } from '../mockData/data';
 import Slider from 'react-slick/lib/slider';
-
 const Testimonial = () => {
 
     const setting = {
