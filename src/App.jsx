@@ -6,7 +6,7 @@ import Footer from "./components/Footer"
 import Testimonial from "./components/Testimonial"
 import ProductDesign from "./components/Products"
 import PictureCards from "./components/PictureCard"
-
+import Money from "./components/Money"
 
 
 function App() {
@@ -21,6 +21,7 @@ function App() {
         <PictureCards/>
         <Connect />
         <Testimonial />
+        <Money />
         <Footer />
       </main>
     </>

@@ -7,6 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
+        customTeal: "#203741",
+        darkTeal:"#17262b",
         primary: "#55b75d"
       },
       fontFamily: {
