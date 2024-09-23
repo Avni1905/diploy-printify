@@ -1,14 +1,14 @@
 const platforms = [
-  { name: "Shopify", logo: "src/assets/shopify.svg", top: "85%", left: "51%" },
-  { name: "Wix", logo: "src/assets/Wix.svg", top: "9%", left: "75%", size: "w-16 h-20 md:w-25 md:h-30" },
+  { name: "Shopify", logo: "src/assets/shopify.png", top: "85%", left: "51%" },
+  { name: "Wix", logo: "src/assets/Wix.png", top: "9%", left: "75%", size: "w-16 h-20 md:w-25 md:h-30" },
   { name: "printify", logo: "src/assets/logo.png", top: "40%", left: "45%", size: "w-24 h-30 md:w-40 md:h-50" },
-  { name: "Etsy", logo: "src/assets/Etsy.svg", top: "70%", left: "75%" },
-  { name: "Squarespace", logo: "src/assets/squarespace.svg", top: "20%", left: "60%" },
-  { name: "WooCommerce", logo: "src/assets/woocommerce.svg", top: "45%", left: "70%", size: "w-16 h-24 md:w-20 md:h-30" },
-  { name: "API", logo: "src/assets/api.svg", top: "60%", left: "20%" },
-  { name: "BigCommerce", logo: "src/assets/bigcommerce.svg", top: "20%", left: "40%", size: "w-16 h-24 md:w-20 md:h-30" },
-  { name: "AddMore", logo: "src/assets/addmore.svg", top: "78%", left: "43%", size: "w-16 h-24 md:w-20 md:h-30" },
-  { name: "PrestaShop", logo: "src/assets/prestashop.svg", top: "50%", left: "35%" },
+  { name: "Etsy", logo: "src/assets/Etsy.png", top: "70%", left: "75%" },
+  { name: "Squarespace", logo: "src/assets/squarespace.png", top: "20%", left: "60%" },
+  { name: "WooCommerce", logo: "src/assets/woocommerce.png", top: "45%", left: "70%", size: "w-16 h-24 md:w-20 md:h-30" },
+  { name: "API", logo: "src/assets/api.png", top: "60%", left: "20%" },
+  { name: "BigCommerce", logo: "src/assets/bigcommerce.png", top: "20%", left: "40%", size: "w-16 h-24 md:w-20 md:h-30" },
+  { name: "AddMore", logo: "src/assets/addmore.png", top: "78%", left: "43%", size: "w-16 h-24 md:w-20 md:h-30" },
+  { name: "PrestaShop", logo: "src/assets/prestashop.png", top: "50%", left: "35%" },
 ];
 
 const lines = [
